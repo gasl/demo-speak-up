@@ -1,0 +1,5 @@
+files/*wav
+files/*mp3
+.monitor
+.idea
+.DS_Store
